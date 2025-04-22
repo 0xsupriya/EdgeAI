@@ -1,4 +1,4 @@
-# Community Forum & Q&A Site Tutorial
+#EdgeAI
 
 <div align="center">
   <br />
@@ -29,12 +29,6 @@
 4. [Quick Start](#quick-start)
 5. [Code Snippets](#code-snippets)
 6. [Assets & More](#assets--more)
-
-## 🚀 Introduction
-
-In this video tutorial, you'll learn how to build a fully featured community forum and Q&amp;A site using modern web technologies. We’ll cover everything from real-time interactions and GitHub authentication to stunning glassy UI elements with glowing gradient effects. This project is perfect for developers who want to dive into building dynamic, interactive, and beautifully designed web applications.
-
-Watch the tutorial on [YouTube](https://youtu.be/_sSTzz13tVY).
 
 ## ⚙️ Tech Stack
 
@@ -155,18 +149,3 @@ FOR DELETE
 USING (auth.uid()::text = user_id);
 ```
 
-## 🎨 Assets & More
-
-- **Tutorial Video:**  
-  [Watch on YouTube](https://youtu.be/_sSTzz13tVY)
-
-- **Design Inspiration & Assets:**  
-  Explore additional assets and design inspirations [here](https://drive.google.com/file/d/your-assets-link).
-
-## 🚀 More
-
-If you enjoyed this tutorial, check out our other projects and advanced courses to further improve your development skills.
-
----
-
-Happy coding and thanks for watching!
