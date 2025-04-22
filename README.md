@@ -1,26 +1,5 @@
 #EdgeAI
 
-<div align="center">
-  <br />
-  <a href="https://youtu.be/_sSTzz13tVY" target="_blank">
-    <img src="https://github.com/machadop1407/social-media-vite-supabase/blob/main/public/thumb.png" alt="Project Banner">
-  </a>
-  <br />
-  <div>
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-    <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-    <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  </div>
-  <h3 align="center">Build a Modern Social Media Website</h3>
-  <div align="center">
-    Follow along with our detailed tutorial on 
-    <a href="https://youtu.be/_sSTzz13tVY" target="_blank"><b>YouTube</b></a>
-  </div>
-  <br />
-</div>
-
 ## 📋 Table of Contents
 
 1. [Introduction](#introduction)
