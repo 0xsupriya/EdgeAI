@@ -1,6 +1,6 @@
-# ReactFlex - Responsive React Landing Page
+# EdgeAI - Responsive React Landing Page
 
-ReactFlex is a modern, responsive landing page built with React and TailwindCSS. It is designed to showcase products, services, or businesses with a clean and professional layout.
+EdgeAI is a modern, responsive landing page built with React and TailwindCSS. It is designed to showcase products, services, or businesses with a clean and professional layout.
 
 ## Features
 
